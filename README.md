@@ -1,10 +1,10 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Seize the Day! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-lightning-emperor&label=Profile%20views&color=0e75b6&style=flat" alt="the-lightning-emperor" /> </p>
 
-- 📫 fiNd mE hERe **thelesserlovedemail@gmail.com**
+- 📫 Say it here **thelesserlovedemail@gmail.com**
 
-- ⚡ Fun Fact About ME **I pErsoNallY thInk raNdoM CapiTaLiSaTioN iS more cOoL thAn fiRSt lETteR CapITalISatiOn**
+- ⚡ Fun Fact : **I pErsoNallY thInk raNdoM CapiTaLiSaTioN iS more cOoL thAn fiRSt lETteR CapITalISatiOn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
